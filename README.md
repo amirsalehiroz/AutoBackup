@@ -1,7 +1,7 @@
 # AutoBackup
 This program works in such a way that it receives a time from you and automatically supports your projects in that period of time
 # Installation
-### git clone https://github.com/amirsalehiroz/AutoBackup.git
+### get into link for download files : 
 ### cd AutoBackup
 ### run AutoBackup.exe
 
